@@ -16,6 +16,5 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 - **Stock Prices**: [Yahoo Finance][Ticker used:- TSLA & GME]
 - **Revenue Data**: [Coursera provided links](links can be found in the notebook)
 
-## Screenshots
-- Tesla
-  
+## Author
+Shubham Rathore

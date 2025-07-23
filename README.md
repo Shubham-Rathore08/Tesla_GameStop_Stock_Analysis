@@ -11,10 +11,19 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 - Visualizations with `plotly` and `plotly.subplots`
 - Insights into stock and revenue trends
 
-## 📊 Data Sources
+## Data Sources
 
 - **Stock Prices**: [Yahoo Finance][Ticker used:- TSLA & GME]
 - **Revenue Data**: [Coursera provided links](links can be found in the notebook)
+
+## Screenshots
+### Tesla
+![Tesla Plot](screenshots/tesla_stock_re.png)      ![Tesla Plot](screenshots/tesla_revenue_re.png)
+
+### Gamestop
+![Gamestop Plot](screenshots/gme_share_re.png)         ![Gamestop Plot](screenshots/gme_rev_re.png)
+
+## 
 
 ## Author
 Shubham Rathore

@@ -25,5 +25,7 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 
 ## 
 
-## Author
-Shubham Rathore
+## Author & Contact
+**Shubham Rathore**
+📧 Email: shubhamrathore7078@gmail.com
+

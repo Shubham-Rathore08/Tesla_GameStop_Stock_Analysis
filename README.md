@@ -23,7 +23,17 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 ### Gamestop
 ![Gamestop Plot](screenshots/gme_share_re.png)         ![Gamestop Plot](screenshots/gme_rev_re.png)
 
-## 
+## How to run this project
+1. Clone the repository:
+```bash
+git clone https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landing_prediction.git
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Open and run notebooks:
+   - 
 
 ## Author & Contact
 **Shubham Rathore**

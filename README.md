@@ -18,10 +18,17 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 
 ## Sample Visualizations
 ### Tesla
+- Clear upward trend in both stock and revenue post-2019.
 ![Tesla Plot](screenshots/tesla_stock_re.png)      ![Tesla Plot](screenshots/tesla_revenue_re.png)
 
 ### Gamestop
+- Highlights the 2021 “meme stock” surge, where prices skyrocketed despite flat/declining revenue.
 ![Gamestop Plot](screenshots/gme_share_re.png)         ![Gamestop Plot](screenshots/gme_rev_re.png)
+
+## Key Insights  
+- Tesla’s revenue growth strongly correlates with long-term stock price increase 📈
+
+- GameStop’s stock showed massive volatility unrelated to revenue, driven by retail trading trends
 
 ## How to run this project
 1. Clone the repository:

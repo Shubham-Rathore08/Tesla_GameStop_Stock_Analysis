@@ -4,7 +4,7 @@ _A financial data science project using web scraping (BeautifulSoup), data visua
 ## Project Overview
 This project simulates the role of a **Data Scientist / Analyst** at a startup investment firm. The goal is to collect financial data (stock prices and revenues) from public sources, analyze them, and create visual dashboards. The focus is on two popular and volatile stocks: Tesla and GameStop.
 
-## Features
+## Methods Used
 - Historical share price extraction using `yfinance`
 - Quarterly revenue scraping from MacroTrends using `BeautifulSoup`
 - Cleaned and structured data using `pandas`

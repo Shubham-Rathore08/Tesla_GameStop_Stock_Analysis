@@ -13,8 +13,8 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 
 ## Data Sources
 
-- **Stock Prices**: [Yahoo Finance][Ticker used:- TSLA & GME]
-- **Revenue Data**: [Coursera provided links](links can be found in the notebook)
+- **Historical Stock Prices:** Extracted using `yfinance` (Tesla: TSLA, GameStop: GME).
+- **Quarterly Revenue Data:** Scraped from MacroTrends with `requests` + `BeautifulSoup`.
 
 ## Sample Visualizations
 ### Tesla

@@ -26,14 +26,15 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 ## How to run this project
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landing_prediction.git
+git clone https://github.com/Shubham-Rathore08/Tesla_GameStop_Stock_Analysis.git
 ```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 3. Open and run notebooks:
-   - 
+   - Tesla_GameStop_Stock_Analysis.ipynb
+
 
 ## Author & Contact
 **Shubham Rathore**

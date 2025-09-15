@@ -2,7 +2,7 @@
 _A financial data science project using web scraping (BeautifulSoup), data visualization (Plotly), and stock market APIs (yfinance) to analyze Tesla and GameStop's share prices and revenue trends._
 
 ## Project Overview
-This project simulates the role of a **Data Scientist / Analyst** at a startup investment firm. The goal is to collect financial data (stock prices and revenues) from public sources, analyze them, and create visual dashboards. The focus is on two popular and volatile stocks: Tesla and GameStop.
+This project simulates the role of a **Data Scientist / Analyst** at a startup investment firm. The goal is to collect financial data (stock prices and revenues) from public sources, analyze them, and create visual dashboards. The focus is on two popular and volatile stocks: **Tesla** and **GameStop**.
 
 ## Methods Used
 - Historical share price extraction using `yfinance`

@@ -19,6 +19,7 @@ This project simulates the role of a **Data Scientist / Analyst** at a startup i
 ## Sample Visualizations
 ### Tesla
 - Clear upward trend in both stock and revenue post-2019.
+  
 ![Tesla Plot](screenshots/tesla_stock_re.png)      ![Tesla Plot](screenshots/tesla_revenue_re.png)
 
 ### Gamestop
